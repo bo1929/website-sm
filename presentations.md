@@ -4,6 +4,8 @@ title: Presentations
 ---
 
 ### 2025
+* Oct 1, VGP, [Orginal phylogeny of VGP](https://drive.google.com/file/d/1rIplJiO5QpvsIpI4oYKs0U0DYmFdCMIE/view?usp=drive_link)
+* August 13, IMSI, [k-mer-based distances](https://drive.google.com/file/d/1xBfEjWuoPqpZWLWUC8-z4DWrfpY6v7P9/view?usp=sharing)
 * July 15, CGSI, [ILS tutorial](https://drive.google.com/file/d/1pu_GProsWQrYyiSAYgLjYydd1oUoHvAw/view?usp=drive_link)
 * June 20, Evolution, [Quartet-based species trees](https://drive.google.com/file/d/1fdCnqSHsk_I69A-Y_UReMywdGOizF8e7/view?usp=sharing)
 

@@ -180,6 +180,7 @@ Wickett, Norman J., Siavash Mirarab, Nam Nguyen, Tandy Warnow, Eric J Carpenter,
 One Thousand Plant Transcriptomes Initiative Green (a co-first author) “One Thousand Plant Transcriptomes and the Phylogenomics of Green Plants.” Nature, 2019. [doi:10.1038/s41586-019-1693-2](https://www.nature.com/articles/s41586-019-1693-2).
 
 * This paper has many datasets, but the most relevant part to my work is on <https://github.com/smirarab/1kp>
+* There is also [this](https://datadryad.org/dataset/doi:10.5061/dryad.rn8pk0pr1), which was never really used. 
 
 #### More is needed!
 
