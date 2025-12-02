@@ -10,15 +10,12 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 ### UCSD
 
 #### Preprints and  accepted conference papers
-0. Stepanauskas, Ramunas, Julia M Brown, Uyen Mai, Oliver Bezuidt, Maria Pachiadaki, Joe Brown, Steven Biller, Paul M Berube, Nicholas R Record, and Siavash Mirarab. “Gene Exchange Networks Define Species-like Units in Marine Prokaryotes.” BioRxiv, 2020, 2020.09.10.291518. [doi:10.1101/2020.09.10.291518](https://doi.org/10.1101/2020.09.10.291518).
 0. Shayesteh Arasti, Puoya Tabaghi, Yasamin Tabatabaee, and Siavash Mirarab. “Optimal Tree Metric Matching Enables Phylogenomic Branch Length Reconciliation.” bioRxiv, January 1, 2023, 2023.11.13.566962. <https://doi.org/10.1101/2023.11.13.566962>.
 	* Appeared in RECOMB 2024 as [short abstract](https://link.springer.com/chapter/10.1007/978-1-0716-3989-4_53).
 	* Arasti, Shayesteh, Puoya Tabaghi, Yasamin Tabatabaee, and Siavash Mirarab. “Optimal Tree Metric Matching Enables Phylogenomic Branch Length Estimation.” In Research in Computational Molecular Biology, edited by Jian Ma, 462–65. Cham: Springer Nature Switzerland, 2024.
 0. Sapci, Ali Osman Berk, and Siavash Mirarab. “A K-Mer-Based Maximum Likelihood Method for Estimating Distances of Reads to Genomes Enables Genome-Wide Phylogenetic Placement.” bioRxiv, 2025, 2025.01.20.633730. <https://doi.org/10.1101/2025.01.20.633730>.
 	*  Appeared in RECOMB 2025
-0. Tabatabaee, Yasamin, Chao Zhang, Shayesteh Arasti, and Siavash Mirarab. “Species Tree Branch Length Estimation despite Incomplete Lineage Sorting, Duplication, and Loss.” bioRxiv, 2025, 2025.02.20.639320. <https://doi.org/10.1101/2025.02.20.639320>.
 0. Tabatabaee, Yasamin, Santiago Claramunt, and Siavash Mirarab. “Coalescent-Based Branch Length Estimation Improves Dating of Species Trees.” bioRxiv,  2025, 2025.02.25.640207. <https://doi.org/10.1101/2025.02.25.640207>.
-0. Rachtman, Eleonora, Yueyu Jiang, and Siavash Mirarab. “Machine Learning Enables Alignment-Free Distance Calculation and Phylogenetic Placement Using k-Mer Frequencies,” April, 2025. <https://doi.org/10.22541/au.174539883.30231226/v1>.
 
 
 
@@ -34,8 +31,11 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 
 #### Published Papers (including in press)
 
-{:start="107"}
+{:start="110"}
 
+0. Tabatabaee, Yasamin, Chao Zhang, Shayesteh Arasti, and Siavash Mirarab. “Species Tree Branch Length Estimation despite Incomplete Lineage Sorting, Duplication, and Loss.” Genome Biology and Evolution, In press (2025): 2025.02.20.639320. <https://doi.org/10.1101/2025.02.20.639320>.
+0. Rachtman, Eleonora, Yueyu Jiang, and Siavash Mirarab. “Machine Learning Enables Alignment‐Free Distance Calculation and Phylogenetic Placement Using k‐Mer Frequencies.” Molecular Ecology Resources (2025), e70055. <https://doi.org/10.1111/1755-0998.70055>.
+0. Stepanauskas, Ramunas, Julia M Brown, Shayesteh Arasti, Uyen Mai, Gregory Gavelis, Maria Pachiadaki, Oliver Bezuidt, Jacob H Munson-McGee, Tianyi Chang, Steven J Biller, Paul M Berube, and Siavash Mirarab. “Net Rate of Lateral Gene Transfer in Marine Prokaryoplankton.” The ISME Journal 19, no. 1 (2025): wraf159. <https://doi.org/10.1093/ismejo/wraf159>.
 0. Zhang, Chao, Rasmus Nielsen, and Siavash Mirarab. “ASTER: A Package for Large-Scale Phylogenomic Reconstructions.” Molecular Biology and Evolution (2025). <https://doi.org/10.1093/molbev/msaf172>.
 0. Gupta, Anshu, Siavash Mirarab, and Yatish Turakhia. “Accurate, Scalable, and Fully Automated Inference of Species Trees from Raw Genome Assemblies Using ROADIES.” Proceedings of the National Academy of Sciences 122, no. 19 (2025): e2500553122. <https://doi.org/10.1073/pnas.2500553122>.
 0. Zhang, Chao, Rasmus Nielsen, and Siavash Mirarab. “CASTER: Direct Species Tree Inference from Whole-Genome Alignments.” Science (2025), eadk9688. <https://doi.org/10.1126/science.adk9688> [direct link](https://www.science.org/stoken/author-tokens/ST-2373/full).
